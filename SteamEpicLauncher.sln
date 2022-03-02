@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32210.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SteamEpicLauncher", "SteamEpicLauncher\SteamEpicLauncher.csproj", "{CA6E21DC-4A22-4F2F-B06E-B71A1E778D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA6E21DC-4A22-4F2F-B06E-B71A1E778D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6E21DC-4A22-4F2F-B06E-B71A1E778D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6E21DC-4A22-4F2F-B06E-B71A1E778D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6E21DC-4A22-4F2F-B06E-B71A1E778D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {641D2426-01B7-4B6C-B501-B6E03A888DC9}
+	EndGlobalSection
+EndGlobal
